@@ -4,7 +4,7 @@
 - Email：1719528017@qq.com
 - 微信号：****
 - QQ：1719528017
-- git主页：https://zfsndtl.github.io/
+- git主页：https://zfsndtl.github.io/zfsndtl/
 
 # 个人信息
 
